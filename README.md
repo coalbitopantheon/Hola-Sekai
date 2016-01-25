@@ -1,2 +1,2 @@
 # Hola-Sekai
-Ichiban GitHub repositorio
+primer repositorio 
